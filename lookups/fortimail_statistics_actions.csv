@@ -1,0 +1,27 @@
+vendor_action,action
+Accept,delivered
+Reject,blocked
+Add Header,delivered
+Modify Subject,modified
+Quarantine,quarantined
+System Quarantine,quarantined
+User Quarantine,quarantined
+Discard,blocked
+Replace,modified
+Delay,deferred
+Rewrite,modified
+Insert Disclaimer,delivered
+Defer Disposition,delivered
+Disclaimer Body,delivered
+Disclaimer Header,delivered
+Defer,deferred
+Quarantine to Review,quarantined
+Content Filter as Spam,detected
+Encrypt,encrypted
+Decrypt,decrypted
+Alternate Host,
+BCC,
+Archive,archived
+Customized repackage,modified
+Repackage,modified
+Notification,notified

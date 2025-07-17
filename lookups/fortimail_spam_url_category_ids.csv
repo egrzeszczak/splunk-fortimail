@@ -1,0 +1,95 @@
+wf_cat_id,signature_type,signature_subtype
+0,Unrated,Unrated
+1,Potentially Liable,Drug Abuse
+2,Adult/Mature Content,Alternative Beliefs
+3,Potentially Liable,Hacking
+4,Potentially Liable,Illegal or Unethical
+5,Potentially Liable,Discrimination
+6,Potentially Liable,Explicit Violence
+7,Adult/Mature Content,Abortion
+8,Adult/Mature Content,Other Adult Materials
+9,Adult/Mature Content,Advocacy Organizations
+11,Adult/Mature Content,Gambling
+12,Potentially Liable,Extremist Groups
+13,Adult/Mature Content,Nudity and Risque
+14,Adult/Mature Content,Pornography
+15,Adult/Mature Content,Dating
+16,Adult/Mature Content,Weapons (Sales)
+17,Personal Interest,Advertising
+18,Personal General Interest,Brokerage and Trading
+19,Bandwidth Consuming,Freeware and Software Downloads
+20,Personal General Interest,Games
+23,Personal General Interest,Web-based Email
+24,Bandwidth Consuming,File Sharing and Storage
+25,Bandwidth Consuming,Streaming Media and Download
+26,Security Risk,Malicious Websites
+28,Personal General Interest,Entertainment
+29,Personal General Interest,Arts and Culture
+30,Personal General Interest,Education
+31,Business General Interest,Finance and Banking
+33,Personal General Interest,Health and Wellness
+34,Personal General Interest,Job Search
+35,Personal General Interest,Medicine
+36,Personal General Interest,News and Media
+37,Personal General Interest,Social Networking
+38,Personal General Interest,Political Organizations
+39,Personal General Interest,Reference
+40,Personal General Interest,Global Religion
+41,Business General Interest,Search Engines and Portals
+42,Personal General Interest,Shopping
+43,Business General Interest,General Organizations
+44,Personal General Interest,Society and Lifestyles
+46,Personal General Interest,Sports
+47,Personal General Interest,Travel
+48,Personal General Interest,Personal Vehicles
+49,Business General Interest,Business
+50,Business General Interest,Information and Computer Security
+51,Business General Interest,Government and Legal Organizations
+52,Business General Interest,Information Technology
+53,Business General Interest,Armed Forces
+54,Personal General Interest,Dynamic Content
+55,Personal General Interest,Meaningless Content
+56,Business General Interest,Web Hosting
+57,Adult/Mature Content,Marijuana
+58,Personal General Interest,Folklore
+59,Potentially Liable,Proxy Avoidance
+61,Security Risk,Phishing
+62,Potentially Liable,Plagiarism
+63,Adult/Mature Content,Sex Education
+64,Adult/Mature Content,Alcohol
+65,Adult/Mature Content,Tobacco
+66,Adult/Mature Content,Lingerie and Swimsuit
+67,Adult/Mature Content,Sports Hunting and War Games
+68,Personal General Interest,Web Chat
+69,Personal General Interest,Instant Messaging
+70,Personal General Interest,Newsgroups and Message Boards
+71,Personal General Interest,Digital Postcards
+72,Bandwidth Consuming,Peer-to-peer File Sharing
+75,Bandwidth Consuming,Internet Radio and TV
+76,Bandwidth Consuming,Internet Telephony
+77,Personal General Interest,Child Education
+78,Personal General Interest,Real Estate
+79,Personal General Interest,Restaurant and Dining
+80,Personal General Interest,Personal Websites and Blogs
+81,Business General Interest,Secure Websites
+82,Personal General Interest,Content Servers
+83,Potentially Liable,Child Abuse
+84,Business General Interest,Web-based Applications
+85,Personal General Interest,Domain Parking
+86,Security Risk,Spam URLs
+87,Personal General Interest,Personal Privacy
+88,Security Risk,Dynamic DNS
+89,Personal General Interest,Auction
+90,Security Risk,Newly Observed Domain
+91,Security Risk,Newly Registered Domain
+92,Business General Interest,Charitable Organizations
+93,Business General Interest,Remote Access
+94,Business General Interest,Web Analytics
+95,Business General Interest,Online Meeting
+96,Potentially Liable,Terrorism
+97,Business General Interest,URL Shortening
+98,Potentially Liable,Crypto Mining
+99,Potentially Liable,Potentially Unwanted Program
+100,Business General Interest,Artificial Intelligence Technology
+101,Business General Interest,Cryptocurrency
+255,Unrated,Unknown

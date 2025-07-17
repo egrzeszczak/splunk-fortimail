@@ -1,0 +1,100 @@
+reason_signature,reason
+Address Invalid,"*Invalid address*"
+Banned Content,*rejecting banned content*
+Blacklisted,*Blacklisted*
+Blacklisted,*blacklist*
+Blacklisted,*black list*
+Blacklisted,*Blocklisted*
+Blacklisted,*blocklist*
+Blacklisted,*block list*
+Blacklisted,*BLACKLIST*
+Blacklisted,*BLOCKLIST*
+Bounce Attack,*Bounce attack*
+Connection Limit,*Too many*connections*
+Connection Refused,*Connection refused*
+Connection Reset,*Connection reset*
+Deferred,"*Deferred*"
+Deferred,"*deferred*"
+DKIM Error,*DKIM = did not pass*
+DMARC Error,*DMARC unauthenticated mail*
+DMARC Error,*rejected by DMARC policy*
+DNS Error,*error on DNS*
+DNS Missing,*missing*dns*
+DNSBL,*DNSBL*
+Data Unknown,*no data known*
+Delivery Unauthorized,*Delivery not authorized*
+Delivery Error,"*delivery failure*"
+Delivery Error,"*could not deliver mail*"
+Domain Blocked,*Domain blocked*
+Empty Sender,*Empty envelope senders not allowed*
+Format Error,*Data format error*
+Graylisted,*Graylist*
+Graylisted,*Greylist*
+Graylisted,*graylist*
+Graylisted,*greylist*
+Graylisted,*gray list*
+Graylisted,*grey list*
+Graylisted,*GRAYLIST*
+Graylisted,*GREYLIST*
+Host Unknown,*host not found*
+Incorrect Message,*message has incorrect or missing headers*
+Insufficient Resources,*Insufficient system resources*
+IO Error,"Input*error"
+IO Error,"Output*error"
+Limit Exceeded,*Delivery limit exceeded*
+Limit Exceeded,*exceeded their limit for the number of messages*
+Limit Exceeded,*receiving mail too quickly*
+Limit Exceeded,*Excessive Number of Queries*
+Local Error,*Temporary local problem*
+Lookup Error,*Temporary lookup failure*
+Lookup Error,*host name lookup failure*
+Link,"*http://"
+Link,"*https://"
+Mail Loop,*mail loop*
+Mailbox Full,*User quota exceeded*
+Mailbox Full,*out of storage space*
+Mailbox Unavailable,*Nie ma takiej osoby pod tym adresem*
+Mailbox Unavailable,*mailbox unavailable*
+Mailbox Unavailable,*no mailbox by that name is currently available*
+Network Unreachable,*Network is unreachable*
+Message Rejected,"*Message rejected*"
+No Third-party DSN,*no third-party DSNs*
+Policy Error,*policy error*
+Policy Rejection,*Intentional policy rejection*
+Policy Rejection,*Policy Violation*
+Postgrey,"*postgrey.schweikert.ch*"
+Processing Unavailable,*unable to process*
+Read Error,*read error*
+Recipient Rejected,*Recipient address rejected*
+Recipient Count Exceeded,*Too many recipients*
+Relay Denied,*Relay access denied*
+Resource Unavailable,*resource*unavailable*
+Route Unknown,*No route to *
+SPAM,* SPAM *
+SPAM,* spam *
+SPF Failed,*SPF *= did not pass*
+Sender Blocked,*Sender is blocked*
+Sender Deferred,*Sender address deferred*
+Sender Domain Empty,*Sender domain is empty*
+Sender Rejected,*Sender Not Permitted*
+Sender Rejected,*Sender address rejected*
+Sender Rejected,*null senders temporarily denied*
+Sender Unauthenticated,*sender is unauthenticated*
+Server Error,*Server configuration error*
+Server Error,*Temporary server error*
+Service Unavailable,*Service currently unavailable*
+Service Unavailable,*Service not available*
+Service Unavailable,*Service unavailable*
+Spamhaus,*SpamHaus*
+Spamhaus,*Spamhaus*
+Spamhaus,*spamhaus*
+TLS Handshake,*TLS handshake*
+Timeout,*timed out*
+Timeout,*timedout*
+Timeout,*Connection timed out*
+Try Again Later,*please come back later*
+Try Again later,*Try again*
+Try Again later,*try again later*
+Try Again later,*try again*
+Try Again later,*try later*
+User Unknown,*User unknown*
