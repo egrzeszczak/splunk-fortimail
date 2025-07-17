@@ -1,0 +1,1 @@
+This is where you put all config files for the add-on.

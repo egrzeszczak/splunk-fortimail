@@ -1,0 +1,1 @@
+Directory for internal permissions metadata.
