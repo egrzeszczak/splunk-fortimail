@@ -1,4 +1,4 @@
-# splunk-fortimail
+# splunk-ta-fortimail
 
 A splunk technical add-on for Fortimail events
 
